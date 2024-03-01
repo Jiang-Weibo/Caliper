@@ -1,0 +1,12 @@
+Setting up GNU environment
+Gnu environment setting is over
+slurmstepd: error: execve(): /mnt/lustre/indy2lfs/work/m23oc/m23oc/s2496214/Caliper/./ccs_app: No such file or directory
+slurmstepd: error: execve(): /mnt/lustre/indy2lfs/work/m23oc/m23oc/s2496214/Caliper/./ccs_app: No such file or directory
+slurmstepd: error: execve(): /mnt/lustre/indy2lfs/work/m23oc/m23oc/s2496214/Caliper/./ccs_app: No such file or directory
+slurmstepd: error: execve(): /mnt/lustre/indy2lfs/work/m23oc/m23oc/s2496214/Caliper/./ccs_app: No such file or directory
+slurmstepd: error: execve(): /mnt/lustre/indy2lfs/work/m23oc/m23oc/s2496214/Caliper/./ccs_app: No such file or directory
+slurmstepd: error: execve(): /mnt/lustre/indy2lfs/work/m23oc/m23oc/s2496214/Caliper/./ccs_app: No such file or directory
+slurmstepd: error: execve(): /mnt/lustre/indy2lfs/work/m23oc/m23oc/s2496214/Caliper/./ccs_app: No such file or directory
+slurmstepd: error: execve(): /mnt/lustre/indy2lfs/work/m23oc/m23oc/s2496214/Caliper/./ccs_app: No such file or directory
+srun: error: r1i1n2: tasks 0-7: Exited with exit code 2
+srun: launch/slurm: _step_signal: Terminating StepId=5466041.0
